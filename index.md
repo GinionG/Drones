@@ -1,6 +1,7 @@
 ## ***Accueil***
 
-Dans le cadre des cours d'outils bureautiques et d'architecture des ordinateurs et des réseaux informatiques de ma première année de cours à l'IESSID, j'ai été conviée à faire ce dossier documentaire portant sur les drones
+Dans le cadre des cours d'outils bureautiques et d'architecture des ordinateurs et des réseaux informatiques de ma première année de cours à l'IESSID, j'ai été conviée à faire ce dossier documentaire portant sur les drones.
+
 Dans ce dossier j'aborderais différents domaines relatifs aux drones :
 
 <ul>
