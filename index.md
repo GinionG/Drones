@@ -11,3 +11,5 @@ Dans ce dossier j'aborderais différents domaines relatifs aux drones :
   <li><a href="uti.md">Les différentes utilisations possibles pour un drone </a></li>
   <li>Les différentes réglementations selon les pays </li>
   </ul>
+
+Mais avant tout ça, voici une petite introduction sur : Qu'est-ce qu'un drone ?
