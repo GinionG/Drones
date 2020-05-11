@@ -10,7 +10,5 @@ Dans ce dossier j'aborderais différents domaines relatifs aux drones :
 3.[Le fonctionnement pratique d'un drone](fonct.md)  
 4.[Les différentes utilisations possibles pour un drone](uti.md)  
 5.[Les différentes réglementations selon les pays]  
-  </ul>
 
 Mais avant tout ça, voici une petite introduction sur : [Qu'est-ce qu'un drone] ?
-test
