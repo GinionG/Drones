@@ -4,12 +4,12 @@ Dans le cadre des cours d'outils bureautiques et d'AORI (architecture des ordina
 
 Dans ce dossier j'aborderais différents domaines relatifs aux drones :
 
-<ul>
-  <li><a href="historique.md"> L'historique de la création des drones à nos jours</a> </li>
-  <li><a href="cm.md">La composition matérielle d'un drone </a></li>
-  <li><a href="fonct.md">Le fonctionnement pratique d'un drone </a></li>
-  <li><a href="uti.md">Les différentes utilisations possibles pour un drone </a></li>
-  <li>Les différentes réglementations selon les pays </li>
+
+1.[L'historique de la création des drones à nos jours](historique.md) 
+2.[La composition matérielle d'un drone](cm.md)
+3.[Le fonctionnement pratique d'un drone](fonct.md)
+4.[Les différentes utilisations possibles pour un drone](uti.md)
+5.[Les différentes réglementations selon les pays]
   </ul>
 
-Mais avant tout ça, voici une petite introduction sur : Qu'est-ce qu'un drone ?
+Mais avant tout ça, voici une petite introduction sur : [Qu'est-ce qu'un drone] ?
