@@ -17,4 +17,4 @@ LA REDACTION DE FUTURA, "Drone" [en ligne]. In *Futura*. Mise à jour le 16 avr
 ![définition](images/def3.jpg)
 
 
-[*retour à la page d'accueil*](index.md)
+<span style="color: #8A2BE2">[*retour à la page d'accueil*](index.md)</span>
