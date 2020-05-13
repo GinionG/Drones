@@ -11,6 +11,6 @@ Dans ce dossier j'aborderais différents domaines relatifs aux drones :
 4.[Les différentes utilisations possibles pour un drone](uti.md)  
 5.[Les différentes réglementations selon les pays]  
 
-Mais avant tout ça, voici une petite introduction sur : [Qu'est-ce qu'un drone] ?
+Mais avant tout ça, voici une petite introduction sur : [Qu'est-ce qu'un drone](intro.md) ?
 
 *ceci est un message pour dire que l'affichage ne bug plus*
