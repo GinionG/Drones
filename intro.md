@@ -2,9 +2,11 @@
 
 Quelques informations générales à propos des drones :
 
-LAROUSSE," Éditions. Définitions : drone" [en ligne]. In *Dictionnaire de français Larousse*. [Consulté le 13 mai 2020]. Disponible sur le Web : https://www.larousse.fr/dictionnaires/francais/drone/26865
+LAROUSSE," Éditions. Définitions : drone" [en ligne]. In *Dictionnaire de français Larousse*. Mise à jour le 7 septembre 2019 [Consulté le 13 mai 2020]. Disponible sur le Web : https://www.larousse.fr/dictionnaires/francais/drone/26865
 
 ![définition](images/def1.jpg) 
+
+CAMBRIDGE DICTIONARY, "Meaning of drone in English"  [en ligne]. In *Cambridge English Dictionary*. Mise à jour le 27 septembre 2019 [Consulté le 13 mai 2020]. Disponible sur le Web : https://dictionary.cambridge.org/dictionary/english/drone
 
 
 ![définition](images/def2.jpg)
