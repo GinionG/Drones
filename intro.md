@@ -1,6 +1,6 @@
 ## Introduction
 
-Quelques informations générales à propos des drones :
+### Quelques informations générales à propos des drones :
 
 LAROUSSE," Éditions. Définitions : drone" [en ligne]. In *Dictionnaire de français Larousse*. Mise à jour le 7 septembre 2019 [Consulté le 13 mai 2020]. Disponible sur le Web : https://www.larousse.fr/dictionnaires/francais/drone/26865
 
