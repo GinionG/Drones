@@ -1,6 +1,6 @@
 ## ***Accueil***
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51SIhgH8B2L._AC_SL1000_.jpg" height="100">
+<div style="text-align:center"><img src="https://images-na.ssl-images-amazon.com/images/I/51SIhgH8B2L._AC_SL1000_.jpg" height="100"></div>
 
 Dans le cadre des cours d'outils bureautiques et d'AORI (architecture des ordinateurs et des réseaux informatiques) de ma première année de cours à l'IESSID, j'ai été conviée à faire un dossier documentaire sous forme de site sur la technologie de mon choix. Voici donc mon site sur les drones.
 
