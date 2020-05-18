@@ -1,4 +1,4 @@
-## <span style="color: #8A2BE2"> _Introduction_ </span>
+##  Introduction
 
 ### Quelques informations générales à propos des drones :
 
@@ -18,4 +18,4 @@ LA REDACTION DE FUTURA, "Drone" [en ligne]. In *Futura*. Mise à jour le 16 avr
 
 Cette courte vidéo en anglais donne une explication rapide mais complète sur ce qu'est un drone et ses utilisations possible : [What is a Drone ?](https://www.youtube.com/watch?v=Cvvjda9y9Gk&feature=emb_logo)  
 
-[*retour à la page d'accueil*](index.md)
+<span style="color: #8A2BE2">[*retour à la page d'accueil*](index.md)</span>
