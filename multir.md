@@ -10,4 +10,5 @@ ANONYME. "Multirotor Drones"[en ligne]. In : *Unmanned Systems Technology* . 
 ![scmultirotors](images/schema2.jpg)
 
 
-[*retour à la page d'accueil*](index.md)
+*Retour à : [Les différents types de drones](cm.md)  
+[*Retour à la page d'accueil*](index.md)
