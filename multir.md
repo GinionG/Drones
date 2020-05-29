@@ -4,7 +4,7 @@ ANONYME. "Multirotor Drones"[en ligne]. In : *Unmanned Systems Technology* . 
 
 ![scmultirortorex](images/multirotor.jpg)
 
-한동희." 다중 회전익 드론"[en ligne]. In : *Google Patents*. Mise à jour le 16 octobre 2017. [Consulté le 24 mai 2020]. Disponible sur le Web : <https://patents.google.com/patent/KR20170114353A/en?q=multi+rotor+drone&oq=multi+rotor+drone> 
+한동희." 다중 회전익 드론"[en ligne]. In : *Google Patents*. Publié le 16 octobre 2017. [Consulté le 24 mai 2020]. 13 p. Disponible sur le Web : <https://patentimages.storage.googleapis.com/8f/de/88/dd8d2b26165be4/KR20170114353A.pdf> 
 
 ![scmultirotors](images/schema1.jpg)
 ![scmultirotors](images/schema2.jpg)
