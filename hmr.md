@@ -5,7 +5,7 @@ CHAPMAN, Andrew. "Types of Drones: Multi-Rotor vs Fixed-Wing vs Single Rotor vs 
 ![schmrex](images/hmr1.jpg)
 
 
-罗佳文. "单旋翼无人机的驱动系统" [en ligne]. In : *Google Patents*. Mise à jour le 13 février 2020. [Consulté le 27 mai 2020]. Disponible sur le Web : <https://patents.google.com/patent/WO2020029102A1/en?q=single+rotor+drone&oq=single+rotor+drone> 
+罗佳文. "单旋翼无人机的驱动系统" [en ligne]. In : *Google Patents*. Publié le 13 février 2020. [Consulté le 27 mai 2020]. 20 p. Disponible sur le Web : <https://patentimages.storage.googleapis.com/c4/5b/04/0eac5088c1a796/WO2020029102A1.pdf> 
 
 ![schmrs](images/hmr2.jpg)
 
