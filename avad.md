@@ -4,7 +4,7 @@ ANONYME. "Hybrid VTOL Fixed Wing UAV Manufacturers" [en ligne]. In : *Unmanne
 
 ![scadavex](images/adav1.jpg)
 
-BAITY, Sean Marshall, BILLINGSLEY, David D., GALLOWAY,  Brad S., CHAPMAN, Richard M. "Vtol aircraft having fixed-wing and rotorcraft configurations" [en ligne]. In : *Google Patents*. Mise à jour le 9 mai 2019. [Consulté le 27 mai 2020]. Disponible sur le Web : <https://patents.google.com/patent/US20190135424A1/en?q=*fixed+wing+hybrid+vtol*&oq=*fixed+wing+hybrid+vtol*&page=6>
+BAITY, Sean Marshall, BILLINGSLEY, David D., GALLOWAY,  Brad S., CHAPMAN, Richard M. "Vtol aircraft having fixed-wing and rotorcraft configurations" [en ligne]. In : *Google Patents*. Publié le 9 mai 2019. [Consulté le 27 mai 2020]. 27 p. Disponible sur le Web : <https://patents.google.com/patent/US20190135424A1/en?q=*fixed+wing+hybrid+vtol*&oq=*fixed+wing+hybrid+vtol*&page=6>
 
 ![scavads](images/adav2.jpg)
 
