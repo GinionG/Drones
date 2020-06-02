@@ -20,7 +20,7 @@ NB : cet article étant très complet, il traite de beaucoup d'autres facettes d
 BRISSET, Pascal. "Drones civils perspectives et réalités"[en ligne]. In : *Ecole nationale de l'aviation civile*.  Publié en août 2004 [consulté le 2 juin 2020]. 50 p. Disponible sur le Web : <http://recherche.enac.fr/~brisset/enac/brisset_sapin.pdf>
 
 ![sccivilfr](images/uc5.jpg)  
-![sccivilfr](images/uc4.jpg)  
+![sccivilfr](images/uc6.jpg)  
 
 *Retour à : [Différentes utilisations](uti.md)*   
 [*retour à la page d'accueil*](index.md)
