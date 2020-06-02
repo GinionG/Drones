@@ -16,7 +16,7 @@ NB : cet article est aussi très pertinent en ce qui concerne l'histoire des dro
 
 COLE, Chris. "Drones wars briefing"[en ligne]. In *Cairn*. Publié en janvier 2012 [consulté le 2 juin 2020]. 36 p. Disponnible sur le Web : <https://dronewars.net/wp-content/uploads/2012/01/drone-wars-briefing-jan2012.pdf>  
 
-![scmilitaireeng](iamges/um3.jpg)   
+![scmilitaireeng](images/um3.jpg)   
 
 
 *Retour à : [Différentes utilisations](uti.md)*  
