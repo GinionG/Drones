@@ -28,7 +28,7 @@ Dans ce dossier j'aborderais différents domaines relatifs aux drones :
 * [Utilisation militaire](um.md)
 * [Utilisation civile](uc.md)
 
-5. [Les différentes réglementations selon les pays]  
+5. [Les différentes réglementations selon les pays](regle.md)
 
 
 Mais avant tout ça, voici une petite introduction sur : [Qu'est-ce qu'un drone](intro.md) ?
