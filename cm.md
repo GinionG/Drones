@@ -15,6 +15,6 @@ JOJO. "Types of Drones - Explore the Different Types of UAV’s"[en ligne]. In:
 ### [*les hélicoptères mono rotor*](hmr.md)  
 
 
-### [*Les avions à décollage et atterissage vertical*](adav.md)  
+### [*Les avions à décollage et atterissage vertical*](avdecver.md)  
 
 [*retour à la page d'accueil*](index.md)  
