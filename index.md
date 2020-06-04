@@ -17,7 +17,7 @@ Dans ce dossier j'aborderais différents domaines relatifs aux drones :
 * [Les drones multi-rotors](multir.md)   
  * [Les drones à voilure fixe](voilfix.md)  
  * [les hélicoptères mono rotor](hmr.md)  
- * [Les avions à décollage et atterissage vertical](adav.md)  
+ * [Les avions à décollage et atterissage vertical](avdecver.md)  
  
 
 3.[Le fonctionnement pratique d'un drone](fonct.md)  
