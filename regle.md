@@ -12,8 +12,7 @@ Ci dessus la dernière loi européenne sur les drones mais il est possible d'en 
 
 
 BRACAVAL, Mathias. *L'assurance et la couverture du risque en matière de drone*.  Faculté de droit
-et de criminologie : Université catholique de Louvain : 2019. Disponible sur le Web : <http://
-hdl.handle.net/2078.1/thesis:20196>
+et de criminologie : Université catholique de Louvain : 2019. Disponible sur le Web : <http://hdl.handle.net/2078.1/thesis:20196>  
 NB: Ce document parle en détail des réglementations sur les trois niveaux mentionnés avant.  
 
 ![screglefr](images/regle1.jpg)  
