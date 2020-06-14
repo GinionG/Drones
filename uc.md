@@ -1,6 +1,6 @@
 ## Les utilisations civiles des drones :  
 
-Nous regrouperons ici, différent types d'utilisations dans le domaine civil pour les drones :  
+Nous regrouperons ici, différents types d'utilisations dans le domaine civil pour les drones :  
 
 
 CHONG, Jed, SWEENEY, Nicole. "L'utilisation civile des drones au Canada" [en ligne] In *Parlement du Canada*. Publié le 16 octobre 2017 [consulté le 2 juin 2020]. 24 p. Disponible sur le Web : <https://bdp.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/BackgroundPapers/PDF/2017-23-f.pdf>    
