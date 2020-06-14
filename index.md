@@ -1,7 +1,7 @@
 ## ***Accueil***
 
 
-![imagelibrededroit](images/istockphoto-911190112-612x612.jpg "image libre de droit")
+[center]![imagelibrededroit](images/istockphoto-911190112-612x612.jpg "image libre de droit")[/center]
 
 
 Dans le cadre des cours d'outils bureautiques et d'architecture des ordinateurs et des réseaux informatiques (AORI) de ma première année de cours à l'IESSID, j'ai été conviée à faire un dossier documentaire sous forme de site sur la technologie de mon choix. Voici donc mon site sur les drones.
