@@ -6,13 +6,13 @@ JOJO. "Types of Drones - Explore the Different Types of UAV’s" [en ligne]. In
 
 ![scgeneraltype](images/type1.jpg)  
 
-### [*Les drones muti-rotors*](multir.md)  
+### [*Les drones mutirotors*](multir.md)  
 
 
 ### [*Les drones à voilure fixe*](voilfix.md)  
 
 
-### [*les hélicoptères mono rotor*](hmr.md)  
+### [*les hélicoptères monorotors*](hmr.md)  
 
 
 ### [*Les avions à décollage et atterissage vertical*](avdecver.md)  
