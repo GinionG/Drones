@@ -1,6 +1,6 @@
 ## Les utilisations militaires des drones :  
 
-Nous regrouperons ici, différent types d'utilisations dans le domaine militaire pour les drones :    
+Nous regrouperons ici, différents types d'utilisations dans le domaine militaire pour les drones :    
 
 BACONNET, Alexis. "Au pays des drones" [en ligne]. In *Outre-Terre*. Janvier 2014 [consulté le 2 juin 2020], vol. n° 38, nᵒ 1, p. 245‑248. Disponible sur le Web : <https://www.cairn.info/revue-outre-terre2-2014-1-page-245.htm>  
 
