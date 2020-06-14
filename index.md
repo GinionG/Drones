@@ -9,10 +9,10 @@ Dans le cadre des cours d'outils bureautiques et d'architecture des ordinateurs 
 Dans ce dossier j'aborderais différents domaines relatifs aux drones :
 
 
-1.[L'historique de la création des drones à nos jours](historique.md)  
+1. [L'historique de la création des drones à nos jours](historique.md)  
 
 
-2.[Les différents types de drones](cm.md)  
+2. [Les différents types de drones](cm.md)  
 
 * [Les drones multi-rotors](multir.md)   
  * [Les drones à voilure fixe](voilfix.md)  
@@ -20,15 +20,15 @@ Dans ce dossier j'aborderais différents domaines relatifs aux drones :
  * [Les avions à décollage et atterissage vertical](avdecver.md)  
  
 
-3.[Le fonctionnement pratique d'un drone](fonct.md)  
+3. [Le fonctionnement pratique d'un drone](fonct.md)  
 
 
-4.[Les différentes utilisations possibles pour un drone](uti.md)   
+4. [Les différentes utilisations possibles pour un drone](uti.md)   
 
 * [Utilisation militaire](um.md)
 * [Utilisation civile](uc.md)
 
-5.[Les différentes réglementations selon les pays](regle.md)
+5. [Les différentes réglementations selon les pays](regle.md)
 
 
 Mais avant tout ça, voici une petite introduction sur : [Qu'est-ce qu'un drone](intro.md) ?
