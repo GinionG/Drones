@@ -14,9 +14,9 @@ Dans ce dossier j'aborderais différents domaines relatifs aux drones :
 
 2.[Les différents types de drones](cm.md)  
 
-* [Les drones multi-rotors](multir.md)   
+* [Les drones multirotors](multir.md)   
  * [Les drones à voilure fixe](voilfix.md)  
- * [les hélicoptères mono rotor](hmr.md)  
+ * [les hélicoptères monorotors](hmr.md)  
  * [Les avions à décollage et atterissage vertical](avdecver.md)  
  
 
