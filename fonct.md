@@ -41,7 +41,7 @@ ANONYME. "UAV & Drone Propellers Drone Propeller Manufacturers & Suppliers"[en 
 ![scpro](images/pro.jpg)  
 
 
-NB : Je n'ai mis en évidence qu'un, deux ou trois composants par sources mais toutes les sources de cette page sont utiles pour tout les composants cité sauf la dernière qui porte exclusivement sur les hélices.  
+NB : Je n'ai mis en évidence qu'un, deux ou trois composants par sources mais toutes les sources, de cette page sont utiles pour tous les composants cités sauf la dernière qui porte exclusivement sur les hélices.  
 
 
 [*retour à la page d'accueil*](index.md)
