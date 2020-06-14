@@ -6,7 +6,7 @@ ANONYME. "A Guide to Fixed Wing Drones" [en ligne]. In *COPTRZ*. [Consulté le
 ![scvoilfixex](images/voilfix2.jpg)
 
 
-유창범. "가변 피치 프로펠러를 이용한 고정익 드론" [en ligne]. In *Google Patents*. Publié le 26 octobre 2018 [Consulté le 26 mai 2020]. 13 p. Disponible à l’adresse sur le Web : <https://patentimages.storage.googleapis.com/02/62/f8/925651cbb209e7/KR20180116849A.pdf>
+유창범. "가변 피치 프로펠러를 이용한 고정익 드론" [en ligne]. In *Google Patents*. Publié le 26 octobre 2018 [Consulté le 26 mai 2020]. 13 p. Disponible sur le Web : <https://patentimages.storage.googleapis.com/02/62/f8/925651cbb209e7/KR20180116849A.pdf>
 
 ![scvoilfixs](images/fix1.jpg)
 
