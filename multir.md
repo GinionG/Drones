@@ -1,4 +1,4 @@
-## <span style= "color=#8A2BE2">*Les drones muti-rotors*</span>
+## <span style= "color=#8A2BE2">*Les drones mutirotors*</span>
 
 ANONYME. "Multirotor Drones" [en ligne]. In *Unmanned Systems Technology* . Mise à jour 2018 [Consulté le 26 mai 2020]. Disponible sur le Web : <https://www.unmannedsystemstechnology.com/category/supplier-directory/platforms/multirotor-drones/>
 
